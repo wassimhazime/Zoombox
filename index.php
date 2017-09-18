@@ -171,6 +171,7 @@
 //<![CDATA[
     $(function(){
         $('a.zoombox').zoombox();
+          $('a.zoombox').show();
     });
 //]]>
 </script>    
